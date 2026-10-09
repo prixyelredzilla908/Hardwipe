@@ -216,4 +216,4 @@ Hardwipe is offered as a full free version, providing all features and updates w
 Take control of your data security today! Download **Hardwipe** and ensure your sensitive information is permanently erased.
 
 ---
-**Last updated:** 2026-10-09 08:43:36 UTC
+**Last updated:** 2026-10-09 15:58:44 UTC
